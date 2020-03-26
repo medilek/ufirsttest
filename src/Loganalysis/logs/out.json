@@ -1,0 +1,546 @@
+[
+    {
+        "host": "141.243.1.172",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "53",
+            "second": "25"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/Software.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "1497"
+    },
+    {
+        "host": "query2.lycos.cs.cmu.edu",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "53",
+            "second": "36"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/Consumer.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "1325"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "53",
+            "second": "53"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/News.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "1014"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "15"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "4889"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "16"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/icons/circle_logo_small.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "2624"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "18"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/logos/small_gopher.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "935"
+    },
+    {
+        "host": "140.112.68.165",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "19"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/logos/us-flag.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "2788"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "19"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/logos/small_ftp.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "124"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "19"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/icons/book.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "156"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "19"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/logos/us-flag.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "2788"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "19"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/OSWRCRA/general/hotline",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "302",
+        "document_size": "0"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "20"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/icons/ok2-0.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "231"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "25"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/OSWRCRA/general/hotline/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "991"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "37"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/OSWRCRA/general/hotline/95report",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "302",
+        "document_size": "0"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "37"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/browner/adminbio.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "4217"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "54",
+            "second": "40"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/OSWRCRA/general/hotline/95report/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "1250"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "01"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/browner/cbpress.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "51661"
+    },
+    {
+        "host": "dd15-032.compuserve.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "21"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/Access/chapter1/s2-4.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "4602"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "23"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/OSWRCRA/general/hotline/95report/05_95mhr.txt.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "56431"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "29"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/Access",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "302",
+        "document_size": "0"
+    },
+    {
+        "host": "140.112.68.165",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "33"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/logos/us-flag.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "2788"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "46"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/information.html",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "617"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "55",
+            "second": "47"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/icons/people.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "224"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "56",
+            "second": "03"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/docs/Access",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "302",
+        "document_size": "0"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "56",
+            "second": "12"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/Access/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "2376"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "56",
+            "second": "14"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/Access/images/epaseal.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "2624"
+    },
+    {
+        "host": "tanuki.twics.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "56",
+            "second": "24"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/OSWRCRA/general/hotline/95report/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "1250"
+    },
+    {
+        "host": "freenet2.carleton.ca",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "56",
+            "second": "36"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/emap/html/regions/four/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "15173"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "57",
+            "second": "05"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/waisicons/unknown.gif",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "83"
+    },
+    {
+        "host": "ix-mia5-17.ix.netcom.com",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "57",
+            "second": "06"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/OWOW/",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "1501"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "57",
+            "second": "08"
+        },
+        "request": {
+            "method": "POST",
+            "url": "/cgi-bin/waisgate/134.67.99.11=earth1.epa.gov=210=/indexes/ACCESS=gopher%40earth1.epa.gov=0.00=:free",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "26217"
+    },
+    {
+        "host": "wpbfl2-45.gate.net",
+        "dateTime": {
+            "day": "29",
+            "hour": "23",
+            "minute": "57",
+            "second": "12"
+        },
+        "request": {
+            "method": "GET",
+            "url": "/waisicons/text.xbm",
+            "protocol": "HTTP",
+            "protocol_version": "1.0"
+        },
+        "response_code": "200",
+        "document_size": "527"
+    }
+]

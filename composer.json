@@ -1,0 +1,30 @@
+{
+    "name": "ufirst/loganalysis",
+    "description": "UFirst test work",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jan Medilek",
+            "email": "janmedilek@gmail.com"
+        }
+    ],
+    "repositories": [
+    ],
+    "require": {
+        "php": ">=7.4.3",
+        "webmozart/assert": "^1.7"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.10",
+        "phpunit/phpunit": "~9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Loganalysis\\": "src/Loganalysis/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit -c tests"
+    }
+}

@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Editor
+.idea
+.vscode
+
+# Project
+tests/phpunit.xml
+vendor/
